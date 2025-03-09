@@ -5,3 +5,6 @@
 
 ### 개념도
 ![개념도](https://github.com/user-attachments/assets/d5b762a0-da8e-4ccf-8130-9feed927e107)
+
+### 참고자료
+[클라우드타입 이용가이드](https://help.cloudtype.io/guide/get-started-git)
