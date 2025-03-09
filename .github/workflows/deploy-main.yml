@@ -18,10 +18,10 @@ jobs:
         uses: cloudtype-github-actions/deploy@v1
         with:
           token: ${{ secrets.CLOUDTYPE_TOKEN }}
-          project: mango606/cicd
+          project: mango606/cicd-sample
           stage: main
           yaml: |
-            name: cicd
+            name: cicd-sample
             app: java@17
             options:
               ports: 8080
