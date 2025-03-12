@@ -92,4 +92,5 @@ HomeController 만 있는 스프링 부트 앱을 인터넷 서버에 배포한�
 ![image](https://github.com/user-attachments/assets/25b46764-0f41-4317-84e2-fd7e584472ac)
 
 ## 참고자료
-[클라우드타입 이용가이드](https://help.cloudtype.io/guide/get-started-git)
+- [클라우드타입](https://cloudtype.io)
+- [클라우드타입 이용가이드](https://help.cloudtype.io/guide/get-started-git)
